@@ -9,6 +9,11 @@ binary-arch: build install
 binary: build install
 
 clean:
+	dh_testdir
+	dh_testroot
+	rm -f build-stamp configure-stamp
+	dh_clean build-stamp
+
 build:
 install:
 	dh_testdir
