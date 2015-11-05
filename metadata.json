@@ -1,6 +1,6 @@
 {
   "name": "rcoleman-puppet_module",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "rcoleman",
   "summary": "puppet_module type and provider for managing puppet modules as resources",
   "license": "Apache 2.0",
