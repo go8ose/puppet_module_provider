@@ -1,0 +1,12 @@
+Source: puppet-module-puppet-module-provider
+Section: misc
+Priority: extra
+Maintainer: Ryan Coleman <ryan@puppetlabs.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.8.4
+
+Package: puppet-module-puppet-module-provider
+Architecture: all
+Depends: ${misc:Depends}, puppet-common
+Description: Puppet module for configuring the apache webserver.
+ This module allows you to configure Apache with Puppet.

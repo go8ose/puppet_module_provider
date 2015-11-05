@@ -1,0 +1,14 @@
+This package was debianized by Geoff Crompton <geoffc@trinity.unimelb.edu.au> on 
+Mon, 26 Oct 2015 11:23:00 +1100
+
+It was downloaded from:
+http://github.com/ryanycoleman/puppet_module_provider
+
+Puppet manifests are Copyright 2015:
+       Ryan Coleman <ryan@puppetlabs.com>
+and distributed without a license.
+
+The Debian packaging and patches are Copyright 2015:
+       Geoff Crompton <geoffc@trinity.unimelb.edu.au>
+and covered under the BSD licnese.
+

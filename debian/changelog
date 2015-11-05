@@ -1,0 +1,11 @@
+puppet-module-puppet-module-provider (0.1.1) unstable; urgency=low
+
+  * Update to include dowlingw fixes for issue 4 and PUP-3563
+
+ -- Geoff Crompton <geoffc@trinity.unimelb.edu.au>  Fri, 06 Nov 2015 09:38:05 +1100
+
+puppet-module-puppet-module-provider (0.1.0) unstable; urgency=low
+
+  * Initial packaging RT#144216
+
+ -- Geoff Crompton <geoffc@trinity.unimelb.edu.au>  Mon, 26 Oct 2015 11:51:33 +1100
